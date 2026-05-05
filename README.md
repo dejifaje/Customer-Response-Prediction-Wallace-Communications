@@ -159,7 +159,7 @@ flowchart TD
 ## **How to Run**
 - Clone the repository
 - Install dependencies:
-  - pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
+  - pip install pandas, numpy, scikit-learn, imbalanced-learn, matplotlib, seaborn, SciPy
 - Update dataset path in the script
 - Run the notebook/script
 
