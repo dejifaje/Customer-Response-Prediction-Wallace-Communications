@@ -168,6 +168,8 @@ H --> I[Model Training]
 I --> J[Evaluation]
 J --> K[Insights]
 
+<img width="3185" height="2099" alt="mermaid-diagram " src="https://github.com/user-attachments/assets/33ab81f0-da8d-4e87-96a6-8444cf0830bf" />
+
 ## **Technologies Used**
 - Python
 - Pandas
