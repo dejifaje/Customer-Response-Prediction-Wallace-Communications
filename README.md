@@ -144,30 +144,6 @@ This model enables Wallace Communications to:
 ## **Project Pipeline Structure**
 flowchart TD
 
-A[Raw Dataset] --> B[Initial EDA]
-B --> B1[Check data types]
-B --> B2[Check missing values]
-B --> B3[Basic distributions]
-
-B --> C[Data Cleaning]
-C --> C1[Filter UK customers]
-C --> C2[Remove invalid values]
-C --> C3[Standardise columns]
-C --> C4[Drop irrelevant columns]
-
-C --> D[Post-Cleaning EDA]
-D --> D1[Histograms]
-D --> D2[Bar Charts]
-D --> D3[Behaviour analysis]
-
-D --> E[Feature Engineering]
-E --> F[Train/Test Split]
-F --> G[SMOTE]
-G --> H[Preprocessing]
-H --> I[Model Training]
-I --> J[Evaluation]
-J --> K[Insights]
-
 <img width="3185" height="2099" alt="mermaid-diagram " src="https://github.com/user-attachments/assets/33ab81f0-da8d-4e87-96a6-8444cf0830bf" />
 
 ## **Technologies Used**
